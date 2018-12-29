@@ -1,6 +1,9 @@
+this is master with unicorn
 redish
 green
 blue
 yellow
+unicorn
 purple
 this is rainbow color
+now added unicorn
